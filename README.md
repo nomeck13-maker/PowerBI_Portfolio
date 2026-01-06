@@ -15,7 +15,7 @@ This is a project I did to showcase my PowerBI skills where I build a story behi
 
 
 
-## [Project 2: Python BootCamp](https://nomeck13-maker.github.io/PowerBI_Portfolio/)
+## [Python BootCamp](https://nomeck13-maker.github.io/PowerBI_Portfolio/)
 
 * Learning and writing phython codes
 * Introduction to Python
@@ -29,7 +29,8 @@ This is a project I did to showcase my PowerBI skills where I build a story behi
 <img width="2502" height="942" alt="image" src="https://github.com/user-attachments/assets/0da9b5c7-411f-4dc1-b08d-7ae32df8360f" />
 
 
-### Project 3: SQL Programming(https://nomeck13-maker.github.io/PowerBI_Portfolio/)
+
+### [SQL Programming practice](https://nomeck13-maker.github.io/PowerBI_Portfolio/)
 
 * Practicing SQL programming skills with MySQL workbench
 
