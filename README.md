@@ -5,8 +5,8 @@
 This is a project I did to showcase my PowerBI skills where I build a story behind data—transforming numbers into insights without requiring people to sift through confusing reports or raw numbers which provides opportunities and insights.
 
 * Data was taken from Financial Sample dataset
-* The model shows visualization which where built with the use of DAX and simple measures in PowerBI.
-* Report was created to determine the impact of discounted price of the bicycles to profit sales, unit sold and gross sales.
+* The model shows visualization which includesthe use of DAX and simple measures in PowerBI.
+* Report was created to determine the impact of discounted sale price of the bicycles to profit sales, unit sold and gross sales.
 * The project is published on https://app.powerbi.com/groups/me/reports/ee0507ed-477b-4ac9-8808-aa8767833591?experience=power-bi
 
 <img width="1480" height="831" alt="image" src="https://github.com/user-attachments/assets/03de82d4-a111-4f6a-878c-2583dfca7baa" />
