@@ -9,9 +9,12 @@ This is a project I did to showcase my PowerBI skills where I build a story behi
 * Report was created to determine the impact of discounted price of the bicycles to profit sales, unit sold and gross sales.
 * The project is published on https://app.powerbi.com/groups/me/reports/ee0507ed-477b-4ac9-8808-aa8767833591?experience=power-bi
 
-<img width="1483" height="833" alt="image" src="https://github.com/user-attachments/assets/9b455b02-f19c-475b-a2cb-4fee51bc4ec3" />
-<img width="1487" height="837" alt="image" src="https://github.com/user-attachments/assets/294c953f-3bba-415d-abfb-4295a391176c" />
-<img width="1485" height="834" alt="image" src="https://github.com/user-attachments/assets/0a04e50d-44cd-46e5-9f6d-5312acf2c65c" />
+<img width="1480" height="831" alt="image" src="https://github.com/user-attachments/assets/03de82d4-a111-4f6a-878c-2583dfca7baa" />
+
+<img width="1489" height="831" alt="image" src="https://github.com/user-attachments/assets/263c5be7-c900-4857-af18-f73d926bf916" />
+
+<img width="1484" height="827" alt="image" src="https://github.com/user-attachments/assets/f7651774-2961-4590-9c37-fd0e6be6a1d9" />
+
 
 
 
