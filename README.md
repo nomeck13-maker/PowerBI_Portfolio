@@ -16,9 +16,26 @@ This is a project I did to showcase my PowerBI skills where I build a story behi
 <img width="1484" height="827" alt="image" src="https://github.com/user-attachments/assets/f7651774-2961-4590-9c37-fd0e6be6a1d9" />
 
 
+## [Project 2: Gemcutter Assessment](https://nomeck13-maker.github.io/PowerBI_Portfolio/)
 
 
-## [Python BootCamp](https://nomeck13-maker.github.io/PowerBI_Portfolio/)
+The dashboard an assessment to compare the training performed during the Qualifying phase with the training performed during the World Championship phase, in order to determine which approach is more effective. The analysis focuses on training volume and performance from cycling activity downloaded from Strava.
+
+* Data was provided by the hiring manager of Gemcutter
+* The 2 and 33rd pages of the report shows performance per activity date and comparison of performance by week.
+* The purpose of the dashboard is to compare Qualifying vs Championship: Training Effectiveness of Gravel Performance.
+
+<img width="1316" height="761" alt="image" src="https://github.com/user-attachments/assets/f79ca896-fdbc-4fed-bbc8-7d44db327c86" />
+
+<img width="1316" height="760" alt="image" src="https://github.com/user-attachments/assets/decda69a-4a34-419c-97fe-92b4fcf23299" />
+  
+<img width="1315" height="759" alt="image" src="https://github.com/user-attachments/assets/5d28b4ad-0cd3-4753-8642-150219fc5c51" />
+
+<img width="1313" height="763" alt="image" src="https://github.com/user-attachments/assets/568819b2-4037-4d3f-b3d1-10353e1cce34" />
+
+
+
+### [Python BootCamp](https://nomeck13-maker.github.io/PowerBI_Portfolio/)
 
 * Learning and writing phython codes
 * Introduction to Python
@@ -33,7 +50,7 @@ This is a project I did to showcase my PowerBI skills where I build a story behi
 
 
 
-### [SQL Programming practice](https://nomeck13-maker.github.io/PowerBI_Portfolio/)
+#### [SQL Programming practice](https://nomeck13-maker.github.io/PowerBI_Portfolio/)
 
 * Practicing SQL programming skills with MySQL workbench
 
