@@ -35,27 +35,7 @@ The dashboard an assessment to compare the training performed during the Qualify
 
 
 
-### [Python BootCamp](https://nomeck13-maker.github.io/PowerBI_Portfolio/)
 
-* Learning and writing phython codes
-* Introduction to Python
-* What is Python
-* Variables, data types and operators
-* Control structures: if-else, loop
-* Functions and basic error handling
-* First Python Program
-* Project can be accessed on https://jupyter.org/try-jupyter/lab/
-
-<img width="2502" height="942" alt="image" src="https://github.com/user-attachments/assets/0da9b5c7-411f-4dc1-b08d-7ae32df8360f" />
-
-
-
-#### [SQL Programming practice](https://nomeck13-maker.github.io/PowerBI_Portfolio/)
-
-* Practicing SQL programming skills with MySQL workbench
-
-<img width="1069" height="677" alt="image" src="https://github.com/user-attachments/assets/7fa0e3a7-38cc-49d1-9ee1-1a78a83cfd24" />
-<img width="1050" height="671" alt="image" src="https://github.com/user-attachments/assets/3f6395b6-f496-46c0-9aba-591523b5ab8b" />
 
 
 
