@@ -1,4 +1,4 @@
-# Ronn's_Portfolio
+# Ronn's Portfolio
 
 # [Project 1: Bicycle Sales Report](https://nomeck13-maker.github.io/PowerBI_Portfolio/)
 
